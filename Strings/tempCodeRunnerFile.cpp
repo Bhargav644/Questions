@@ -1,0 +1,2 @@
+
+    return abs(value);

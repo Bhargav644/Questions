@@ -1,0 +1,1 @@
+cout << frequentElement(arr, n);
